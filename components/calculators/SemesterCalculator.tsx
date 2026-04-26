@@ -66,7 +66,7 @@ export function SemesterCalculator() {
   const creditsNum = parseFloat(completedCredits);
   const isValid =
     !isNaN(cgpaNum) && cgpaNum >= 0 && cgpaNum <= 4.0 &&
-    !isNaN(creditsNum) && creditsNum > 0;
+    !isNaN(creditsNum) && creditsNum >= 0;
 
   const result = useMemo(() => {
     if (!isValid) return null;
