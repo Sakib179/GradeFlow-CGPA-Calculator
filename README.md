@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="public/icons/icon-192.png" alt="GradeFlow Logo" width="80" height="80" />
-
 # GradeFlow
 
 ### CGPA Calculator — Fast, Beautiful, Offline-Ready
@@ -17,6 +15,7 @@ Built for university students — predict your CGPA before results are even anno
 
 [Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
 
+### The site is live at https://grade-flow-cgpa-calculator.vercel.app/
 </div>
 
 ---
@@ -40,26 +39,6 @@ Built for university students — predict your CGPA before results are even anno
 
 All calculations follow the standard **4.0 GPA scale**.
 
-### After Semester
-```
-New CGPA = (Old CGPA × Old Credits) + Σ(Course Credit × Course GPA)
-           ────────────────────────────────────────────────────────────
-                        Old Credits + New Semester Total Credits
-```
-
-### After Course Drop
-```
-New CGPA = (Current CGPA × Current Credits) − (Dropped Credit × Dropped GPA)
-           ────────────────────────────────────────────────────────────────────
-                             Current Credits − Dropped Credit
-```
-
-### After Grade Replace (Repeat)
-```
-New CGPA = (Current CGPA × Current Credits) − (Old GPA × Credit) + (New GPA × Credit)
-           ─────────────────────────────────────────────────────────────────────────────
-                                         Current Credits
-```
 > **Note:** Credits do **not** increase after a repeat — only the grade changes.
 
 ---
