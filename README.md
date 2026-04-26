@@ -14,7 +14,7 @@
 Built for university students — predict your CGPA before results are even announced.
 
 [Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
-
+The site is live at https://grade-flow-cgpa-calculator.vercel.app/
 </div>
 
 ---
