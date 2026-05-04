@@ -11,7 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-6C63FF?style=flat-square)](LICENSE)
 
 **A mobile-first, no-login CGPA calculator with three powerful tools in one place.**  
-Built for university students — predict your CGPA before results are even announced.
+Built for university students.
 
 [Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
 
@@ -123,22 +123,6 @@ gradeflow/
     ├── manifest.json        # PWA manifest
     └── icons/               # App icons
 ```
-
----
-
-## 🎨 Design System
-
-| Token | Dark Mode | Light Mode | Usage |
-|---|---|---|---|
-| Background | `#0F0F1A` | `#F8FAFC` | Page background |
-| Card | `#1A1A2E` | `#FFFFFF` | Content cards |
-| Accent | `#6C63FF` | `#6C63FF` | Primary action color |
-| Success | `#4ADE80` | `#4ADE80` | CGPA improvement |
-| Danger | `#F87171` | `#F87171` | CGPA decrease |
-| Text | `#E2E8F0` | `#1E293B` | Primary text |
-| Muted | `#94A3B8` | `#64748B` | Secondary text |
-
-**Font:** [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans)
 
 ---
 
