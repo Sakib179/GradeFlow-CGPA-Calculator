@@ -15,7 +15,7 @@ Built for university students.
 
 [Live Demo](#) · [Report a Bug](#) · [Request a Feature](#)
 
-### The site is live at https://grade-flow-cgpa-calculator.vercel.app/
+### The site is live at https://gradeflowcgpacalculator.vercel.app/
 </div>
 
 ---
