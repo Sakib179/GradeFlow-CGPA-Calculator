@@ -34,7 +34,6 @@ Built for university students.
 | ⚡ **Live Calculation** | Results update instantly as you select grades |
 
 ---
----
 
 ## 🖥️ Tech Stack
 
@@ -47,8 +46,6 @@ gradeflow/
 ├── Lucide React      — Icon library
 └── canvas-confetti   — Celebration effects
 ```
-
----
 
 ## 🚀 Getting Started
 
