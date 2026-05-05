@@ -34,13 +34,6 @@ Built for university students.
 | ⚡ **Live Calculation** | Results update instantly as you select grades |
 
 ---
-
-## 🧮 The Math
-
-All calculations follow the standard **4.0 GPA scale**.
-
-> **Note:** Credits do **not** increase after a repeat — only the grade changes.
-
 ---
 
 ## 🖥️ Tech Stack
