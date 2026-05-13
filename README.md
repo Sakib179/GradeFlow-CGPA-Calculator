@@ -79,43 +79,6 @@ npm run start
 
 ---
 
-## 📁 Project Structure
-
-```
-gradeflow/
-├── app/
-│   ├── globals.css          # Global styles & Tailwind directives
-│   ├── layout.tsx           # Root layout, fonts, PWA meta
-│   └── page.tsx             # Main SPA entry point
-│
-├── components/
-│   ├── Header.tsx           # Top navigation bar
-│   ├── BottomTabBar.tsx     # Mobile bottom navigation
-│   ├── DesktopTabBar.tsx    # Desktop horizontal tab bar
-│   ├── ThemeProvider.tsx    # Dark/light mode context
-│   │
-│   ├── calculators/
-│   │   ├── SemesterCalculator.tsx
-│   │   ├── DropCalculator.tsx
-│   │   └── RepeatCalculator.tsx
-│   │
-│   └── shared/
-│       ├── NumberInput.tsx  # Styled numeric input
-│       ├── PillSelector.tsx # Grade & credit pill buttons
-│       ├── CourseCard.tsx   # Per-course input card
-│       └── ResultCard.tsx   # Animated result display
-│
-├── lib/
-│   ├── calculations.ts      # All CGPA formulas
-│   └── constants.ts         # Grade scale & credit options
-│
-└── public/
-    ├── manifest.json        # PWA manifest
-    └── icons/               # App icons
-```
-
----
-
 ## 📱 Grade Scale Reference
 
 | Letter | GPA | Letter | GPA |
